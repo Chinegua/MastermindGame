@@ -25,6 +25,7 @@ public class patron {
 		
 		//System.out.println(stringSequence[0]);
 		sequence = stringSequence.split("");
+		
 		/*System.out.println(sequence[1]);
 		System.out.println(Arrays.toString(sequence));*/
 		
